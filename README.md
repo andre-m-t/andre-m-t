@@ -1,5 +1,5 @@
 # Hello World! 👋
-### Eu sou o André M.
+### Olá, eu sou o André M.
 - 🔭 Buscando aperfeiçoar meus conhecimentos
 - ⚡ Estudante de Engenharia de Computação 
 - 🌱 Aprendendo C++ e C#
