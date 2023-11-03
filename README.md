@@ -5,8 +5,8 @@
 - 🌱 Aprendendo C++ e C#
 - 💬 Ask me about ...
 #
-<a href="https://www.instagram.com/andre.moreira616/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="center-botton" alt="Andre-Instagram"></a>
-<a href="https://wa.me/5534996509521"><img src="https://img.shields.io/badge/Whatsapp-3DDC84?style=for-the-badge&logo=whatsapp&logoColor=white" align="center-botton" alt="Andre-Whatsapp"></a>
+<a href="https://www.instagram.com/andre.moreira616/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="center-botton" alt="Andre-Instagram"></a>
+<a href="https://wa.me/5534996509521" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-3DDC84?style=for-the-badge&logo=whatsapp&logoColor=white" align="center-botton" alt="Andre-Whatsapp"></a>
 
 #
 <div>
