@@ -2,12 +2,12 @@
 ### Olá, eu sou o André M.
 - 🔭 Buscando aperfeiçoar meus conhecimentos
 - ⚡ Estudante de Engenharia de Computação 
-- 🌱 Aprendendo C++ e C#
 - 💬 Ask me about ...
+<!-- 🌱 Aprendendo C++ e C# 
 #
 <a href="https://www.instagram.com/andre.moreira616/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="center-botton" alt="Andre-Instagram"></a>
 <a href="https://wa.me/5534996509521" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-3DDC84?style=for-the-badge&logo=whatsapp&logoColor=white" align="center-botton" alt="Andre-Whatsapp"></a>
-
+-->
 #
 <div>
 	<img align="center" alt="Andre-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
